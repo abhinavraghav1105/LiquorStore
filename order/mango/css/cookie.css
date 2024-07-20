@@ -1,0 +1,35 @@
+/*Cookie Consent Begin*/
+#cookieConsent {
+    background-color: #555555;
+    min-height: 75px;
+    font-size: 14px;
+    color: #ccc;
+    line-height: 26px;
+    padding: 8px 0 8px 30px;
+    
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: none;
+    z-index: 9999;
+  }
+  #cookieConsent a {
+    color: #ffffff;
+    text-decoration: uppercase;
+    cursor: pointer;
+  }
+  #closeCookieConsent {
+    float: right;
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+    margin: -15px 0 0 0;
+    font-weight: bold;
+  }
+  #closeCookieConsent:hover {
+    color: #000;
+  }
+  
+  /*Cookie Consent End*/
+  
